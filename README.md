@@ -2,6 +2,10 @@
 
 A primer to all the things Panopticon Project looks at.
 
+## How do APTs (Advanced Persistent Threats) operate?
+
+[Like government agencies](https://www.youtube.com/watch?v=wP2J9aYM6Oo) according to [The Grugq](https://twitter.com/thegrugq)
+
 ## Corporate surveillance, digital tracking, big data & privacy
 
 [Corporate surveillance, digital tracking, big data & privacy](https://www.youtube.com/watch?v=3ABaGEWjFIg) from ChaosCommunicationCongress2016 33c3
