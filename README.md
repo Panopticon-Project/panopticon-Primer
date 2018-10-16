@@ -2,7 +2,7 @@
 
 # Panopticon Project
 
-## Primer to get you started
+## A primer to get you started
 
 Here is a primer to all the things Panopticon Project looks at.
 
